@@ -1,1 +1,4 @@
 welcome to Devops!!
+welcome to GIT
+welcome to maven
+welcome to docker
